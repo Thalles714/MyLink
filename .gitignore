@@ -5,3 +5,5 @@ assets/
 reference/
 /media/
 .vercel/
+.vercel
+.env*
